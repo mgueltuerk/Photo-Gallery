@@ -1,4 +1,4 @@
-# Photo-Gallery
+# Photo Gallery
 
 ![Alt-Text](/Photo_Gallery1.png)
 ![Alt-Text](/Photo_Gallery2.png)
